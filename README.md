@@ -1,0 +1,1 @@
+Este proyecto es un sistema de gestión para una zapatería desarrollado en Python. Incluye un inicio de sesión seguro para garantizar el acceso autorizado, un CRUD para administrar el inventario de productos (crear, leer, actualizar y eliminar), y una funcionalidad completa para la gestión del inventario, permitiendo un control eficiente del stock y las operaciones del negocio.
